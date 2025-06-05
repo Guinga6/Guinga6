@@ -46,7 +46,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 My GitHub Stats
 
--*(Consider adding dynamic stats here using tools like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
+- *(Consider adding dynamic stats here using tools like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
 
 [![Guinga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guinga6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
