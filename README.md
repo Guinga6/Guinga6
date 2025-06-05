@@ -46,38 +46,38 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 My GitHub Stats
 
-- *(Consider adding dynamic stats here using tools like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
+<!-- - *(Consider adding dynamic stats here using tools like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))* -->
 
 [![Guinga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guinga6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guinga6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
+## ✨ Featured Projects
 
-    ## ✨ Featured Projects
+Here are a few projects I've worked on:
 
-    Here are a few projects I've worked on:
+1.  **🚗 Vehicle License Plate & Brand Detection:**
+*   Collected and annotated images of Moroccan vehicles.
+*   Applied Deep Learning models (likely YOLO via PyTorch/TensorFlow) for detection.
+*   *Keywords: Computer Vision, Deep Learning, Object Detection, PyTorch/TensorFlow, OpenCV.*
+2.  **⚽ Football Transfer & Rumour Analysis:**
+*   Automated data extraction using Apache Airflow.
+*   Stored data in MongoDB Atlas.
+*   Created visualizations using Power BI.
+*   *Keywords: Data Engineering, ETL, Airflow, MongoDB, Power BI, Data Visualization.*
+3.  **💬 Interactive Chatbot:**
+*   Involved data collection and fine-tuning an LLM.
+*   Built an interactive application (potentially using Streamlit or similar).
+*   *Keywords: NLP, Large Language Models (LLMs), Fine-Tuning, Chatbots.*
+4.  **🏅 Olympic Games Paris 2024 Dashboard:**
+*   Performed web scraping to collect data.
+*   Cleaned and processed the collected data.
+*   Built an interactive dashboard using Streamlit.
+*   [View Repository](https://github.com/Guinga6/Olympic-Games-Paris-2024)
+*   *Keywords: Web Scraping, Data Cleaning, Data Visualization, Streamlit, Python.*
 
-    1.  **🚗 Vehicle License Plate & Brand Detection:**
-    *   Collected and annotated images of Moroccan vehicles.
-    *   Applied Deep Learning models (likely YOLO via PyTorch/TensorFlow) for detection.
-    *   *Keywords: Computer Vision, Deep Learning, Object Detection, PyTorch/TensorFlow, OpenCV.*
-    2.  **⚽ Football Transfer & Rumour Analysis:**
-    *   Automated data extraction using Apache Airflow.
-    *   Stored data in MongoDB Atlas.
-    *   Created visualizations using Power BI.
-    *   *Keywords: Data Engineering, ETL, Airflow, MongoDB, Power BI, Data Visualization.*
-    3.  **💬 Interactive Chatbot:**
-    *   Involved data collection and fine-tuning an LLM.
-    *   Built an interactive application (potentially using Streamlit or similar).
-    *   *Keywords: NLP, Large Language Models (LLMs), Fine-Tuning, Chatbots.*
-    4.  **🏅 Olympic Games Paris 2024 Dashboard:**
-    *   Performed web scraping to collect data.
-    *   Cleaned and processed the collected data.
-    *   Built an interactive dashboard using Streamlit.
-    *   [View Repository](https://github.com/Guinga6/Olympic-Games-Paris-2024)
-    *   *Keywords: Web Scraping, Data Cleaning, Data Visualization, Streamlit, Python.*
-
-    *(You can add more details or links to other projects like Sentiment Analysis or your Portfolio site)*
+*(You can add more details or links to other projects like Sentiment Analysis or your Portfolio site)* -->
 
 ## 📫 Get In Touch
 
@@ -87,6 +87,6 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out if you'd like to collaborate on a project or just connect!
 
-    ---
+<!-- ---
 
-    *This README was drafted with assistance from an AI agent.*
+*This README was drafted with assistance from an AI agent.* -->
