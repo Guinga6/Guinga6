@@ -44,14 +44,14 @@ Here are some of the technologies and tools I work with:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-##📊 My GitHub Stats
+## 📊 My GitHub Stats
 
 *(Consider adding dynamic stats here using tools like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
 
-```markdown
+s
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guinga6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guinga6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-```
+
 *(Replace `Guinga6` with your username if needed, and choose a theme you like!)*
 
 ## ✨ Featured Projects
